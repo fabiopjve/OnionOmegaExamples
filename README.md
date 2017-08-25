@@ -1,2 +1,2 @@
 # OnionOmegaExamples
-Some simple and small examples using Node.Js on Onion Omega2+
+Some simple examples using Node.Js on Onion Omega2+
